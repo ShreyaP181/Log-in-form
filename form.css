@@ -1,0 +1,35 @@
+div {
+    width: 500px;
+    height: 600px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    /* color: white; */
+    font-size: 25px;
+    background-color: transparent;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+}
+
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+body {
+    background: url('https://tse3.mm.bing.net/th?id=OIP.8Kl8o6dNaud-DTYe0uB0zQHaEK&pid=Api&P=0&w=327&h=184');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* body {
+    background-color: aqua;
+    background-size: cover;
+} */
